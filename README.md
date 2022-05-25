@@ -1,2 +1,1 @@
-# daily-grind-sm21-10
-An IT121 assignment
+Application demonstrating knowledge of simple Javascript concepts.
