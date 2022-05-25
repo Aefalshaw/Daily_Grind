@@ -1,1 +1,1 @@
-Application demonstrating knowledge of simple Javascript concepts.
+Application demonstratring basic concept knowledge of HTML/CSS/Javascript. The user is able to interact with the application and change the appearance of the application based on the day of the week.
